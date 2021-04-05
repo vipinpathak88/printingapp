@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/printingapp/static/css/main.62a575c8.chunk.css",
+    "main.js": "/printingapp/static/js/main.2d350e4f.chunk.js",
+    "main.js.map": "/printingapp/static/js/main.2d350e4f.chunk.js.map",
+    "runtime-main.js": "/printingapp/static/js/runtime-main.a9fec82b.js",
+    "runtime-main.js.map": "/printingapp/static/js/runtime-main.a9fec82b.js.map",
+    "static/js/2.f8b670ed.chunk.js": "/printingapp/static/js/2.f8b670ed.chunk.js",
+    "static/js/2.f8b670ed.chunk.js.map": "/printingapp/static/js/2.f8b670ed.chunk.js.map",
+    "index.html": "/printingapp/index.html",
+    "static/css/main.62a575c8.chunk.css.map": "/printingapp/static/css/main.62a575c8.chunk.css.map",
+    "static/js/2.f8b670ed.chunk.js.LICENSE.txt": "/printingapp/static/js/2.f8b670ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9fec82b.js",
+    "static/js/2.f8b670ed.chunk.js",
+    "static/css/main.62a575c8.chunk.css",
+    "static/js/main.2d350e4f.chunk.js"
+  ]
+}
